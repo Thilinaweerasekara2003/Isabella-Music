@@ -1,8 +1,8 @@
 {
-  "name": "Yukki Music Bot",
+  "name": "Isabella Music",
   "description": "A Telegram Music Bot with proper functions written in Python with Pyrogram and Py-Tgcalls.",
-  "repository": "https://github.com/NotReallyShikhar/YukkiMusicBot",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg",
+  "repository": "https://github.com/Thilinaweerasekara2003/Isabella-music",
+  "logo": "https://telegra.ph/file/94d8764b4d3f1324de6a3.jpg",
   "keywords": [
   "python3",
   "telegram",
@@ -12,7 +12,7 @@
   "telegram-bot",
   "pyrogram"
   ],
-  "repository": "https://github.com/notreallyshikhar/YukkiMusicBot",
+  "repository": "https://github.com/Thilinaweerasekara2003/Isabella-music",
   "stack": "container",
   "env": {
     "API_ID": {
@@ -32,7 +32,7 @@
     },
     "DURATION_LIMIT": {
       "description": "Duration Limit for Playout (In Mins).. Example: 60",
-      "value": "60",
+      "value": "999",
       "required": true
     },
     "ASSISTANT_PREFIX": {
